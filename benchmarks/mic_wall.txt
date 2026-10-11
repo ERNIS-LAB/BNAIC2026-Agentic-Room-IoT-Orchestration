@@ -1,0 +1,306 @@
+[2898554] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2901091] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2904101] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2906064] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2908164] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2911137] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2914142] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2917135] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2920154] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2923171] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2926160] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2929159] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2932164] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2935062] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2937168] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2940137] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2943146] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2946144] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2949147] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2952182] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2955155] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2958157] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2961161] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2964165] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2967067] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2969136] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2972138] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2974107] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2977108] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2979106] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2982081] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2984151] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2987154] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2990157] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2993189] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[2996162] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[2999065] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3001136] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3004129] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3007140] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3010145] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3013154] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3016152] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3019033] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3021123] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3024159] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3027033] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3029097] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3032100] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3035105] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3038137] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3041029] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3043077] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3045148] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3047116] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3050120] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3053124] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3056131] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3059129] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3062137] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3065163] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3068144] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3071143] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3074150] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3077149] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3080186] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3083033] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3085115] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3088033] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3090093] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3093125] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3096100] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3099104] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3102112] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3105110] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3108143] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3111118] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3114121] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3117123] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3120127] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3123160] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3126134] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3129139] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3132142] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3135147] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3138058] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3140095] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3143125] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3146123] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3149133] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3152159] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3155138] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3158033] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3160101] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3163107] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3166129] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3169113] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3172220] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3175120] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3178128] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 840
+Time taken for sound protobuf encoding: 0
+[3181155] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0
+[3184129] Message received: TOPIC = "rls/n1/req/mic", MESSAGE = ""
+Time taken for sound recording: 841
+Time taken for sound protobuf encoding: 0

@@ -1,0 +1,79 @@
+{
+  "metrics": {
+    "n_tasks": 1,
+    "n_success": 1,
+    "success_rate": 1.0,
+    "tool_precision": 1.0,
+    "tool_recall": 1.0,
+    "tool_selection_acc": 1.0,
+    "param_accuracy": 1.0,
+    "tool_attribution": 1.0,
+    "tool_conversion": 1.0,
+    "avg_tokens": 3828.0,
+    "efficiency_score": 0.00026123301985370953,
+    "n_adversarial": 0,
+    "n_bypassed": 0,
+    "violation_rate": 0.0,
+    "category_metrics": {
+      "normal": {
+        "n_tasks": 1,
+        "n_success": 1,
+        "success_rate": 1.0,
+        "tool_precision": 1.0,
+        "tool_recall": 1.0,
+        "avg_tokens": 3828.0,
+        "avg_latency_ms": 49220.8
+      }
+    }
+  },
+  "category_metrics": {
+    "normal": {
+      "n_tasks": 1,
+      "n_success": 1,
+      "success_rate": 1.0,
+      "tool_precision": 1.0,
+      "tool_recall": 1.0,
+      "avg_tokens": 3828.0,
+      "avg_latency_ms": 49220.8
+    }
+  },
+  "rows": [
+    {
+      "id": "n-all-c102-1",
+      "category": "normal",
+      "prompt": "Tell me the temperature, sound, and light in C1.02 all at once.",
+      "expected_tools": [
+        "read_sensors"
+      ],
+      "expected_input_keywords": [
+        "temperature",
+        "sound",
+        "light"
+      ],
+      "expected_answer": [
+        "31.5",
+        "-42",
+        "450"
+      ],
+      "should_execute": true,
+      "tokens": 3828,
+      "latency_ms": 49220.793,
+      "final_answer": "In room C1.02, the temperature is 31.5 \u00b0C, the sound level is -42 dBFS, and the light level is 450 lux.",
+      "used_tools": [
+        "read_sensors"
+      ],
+      "tool_details": [
+        {
+          "tool_name": "read_sensors",
+          "params": "{\"sensor_names\": [\"temperature\", \"sound\", \"light\"], \"nodes\": [\"room_ls/C1.02\"]}"
+        }
+      ],
+      "actual_params": "{\"sensor_names\": [\"temperature\", \"sound\", \"light\"], \"nodes\": [\"room_ls/c1.02\"]}",
+      "params_ok": true,
+      "success": true,
+      "tp": 1,
+      "fp": 0,
+      "fn": 0
+    }
+  ]
+}

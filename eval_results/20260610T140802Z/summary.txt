@@ -1,0 +1,42 @@
+============================================================
+  MRP-2 AGENT EVALUATION REPORT
+============================================================
+  Run timestamp : 20260610T140802Z
+  Tasks evaluated: 1
+  Successful     : 1
+  Success rate   : 100.00%
+
+  ── Tool Metrics ──
+  Precision      : 100.00%
+  Recall         : 100.00%
+  Selection acc. : 100.00%
+  Param accuracy : 100.00%
+  Attribution    : 100.00%
+  Conversion     : 100.00%
+
+  Avg tokens/task: 3828
+  Efficiency     : 0.000261
+
+  Adversarial tests : 0
+  Bypassed          : 0
+  Violation rate    : 0.00%
+
+  ── Per Category ──
+  [normal]
+    Tasks: 1  |  Success: 1  |  Rate: 100.00%
+    Avg tokens: 3828  |  Avg latency: 49221 ms
+    Tool precision: 100.00%  |  Recall: 100.00%
+============================================================
+
+  ── Per-Test Details ──
+  [1] n-all-c102-1  (normal)  → PASS
+      Prompt:           Tell me the temperature, sound, and light in C1.02 all at once.
+      Expected answer:  ['31.5', '-42', '450']
+      Actual answer:    In room C1.02, the temperature is 31.5 °C, the sound level is -42 dBFS, and the light level is 450 lux.
+      Expected tools:   ['read_sensors']
+      Actual tools:     ['read_sensors']
+      Expected params:  ['temperature', 'sound', 'light']
+      Actual params:    {"sensor_names": ["temperature", "sound", "light"], "nodes": ["room_ls/c1.02"]}
+        • read_sensors({"sensor_names": ["temperature", "sound", "light"], "nodes": ["room_ls/C1.02"]})
+      Tokens: 3828  |  Latency: 49220.793 ms
+

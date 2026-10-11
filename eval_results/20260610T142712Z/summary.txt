@@ -1,0 +1,42 @@
+============================================================
+  MRP-2 AGENT EVALUATION REPORT
+============================================================
+  Run timestamp : 20260610T142712Z
+  Tasks evaluated: 1
+  Successful     : 1
+  Success rate   : 100.00%
+
+  ── Tool Metrics ──
+  Precision      : 100.00%
+  Recall         : 100.00%
+  Selection acc. : 100.00%
+  Param accuracy : 100.00%
+  Attribution    : 100.00%
+  Conversion     : 100.00%
+
+  Avg tokens/task: 3460
+  Efficiency     : 0.000289
+
+  Adversarial tests : 0
+  Bypassed          : 0
+  Violation rate    : 0.00%
+
+  ── Per Category ──
+  [normal]
+    Tasks: 1  |  Success: 1  |  Rate: 100.00%
+    Avg tokens: 3460  |  Avg latency: 22403 ms
+    Tool precision: 100.00%  |  Recall: 100.00%
+============================================================
+
+  ── Per-Test Details ──
+  [1] n-temp-c102-1  (normal)  → PASS
+      Prompt:           What's the temperature in room C1.02?
+      Expected answer:  31.5
+      Actual answer:    31.5 °C
+      Expected tools:   ['read_sensors']
+      Actual tools:     ['read_sensors']
+      Expected params:  ['temperature']
+      Actual params:    {"sensor_names": ["temperature"], "nodes": ["room_ls/c1.02"]}
+        • read_sensors({"sensor_names": ["temperature"], "nodes": ["room_ls/C1.02"]})
+      Tokens: 3460  |  Latency: 22403.235 ms
+

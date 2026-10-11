@@ -1,0 +1,306 @@
+[2757223] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2757494] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2757762] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2758027] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2758304] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2758567] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2758828] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2759088] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2759382] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2759655] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 0
+Time taken for light protobuf encoding: 0
+[2759914] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2760172] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2760430] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2760691] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2760965] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2761224] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2761483] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2761734] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2761992] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2762261] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2762507] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2762762] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2763012] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2763263] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2763512] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 0
+Time taken for light protobuf encoding: 0
+[2763765] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2764016] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2764267] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2764518] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2764768] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2765023] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2765278] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2765530] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2765780] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2766033] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2766299] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2766548] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2766799] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2767049] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2767301] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2767558] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2767827] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2768077] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2768328] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2768575] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2768831] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2769081] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 0
+Time taken for light protobuf encoding: 0
+[2769332] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2769585] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2769835] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2770115] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2770369] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2770665] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2770918] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2771168] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2771420] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2771669] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2771931] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2772180] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 1
+[2772431] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2772682] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2772933] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2773263] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2773533] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2773783] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2774033] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2774286] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2774534] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2774782] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2775037] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2775288] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2775538] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2775790] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2776042] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2776291] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2776541] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2776789] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2777043] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2777299] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2777554] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2777807] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2778055] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2778305] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2778557] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2778807] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2779059] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2779316] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2779570] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2779820] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2780087] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2780338] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2780588] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2780835] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2781089] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2781346] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2781600] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2781849] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2782102] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2782353] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2782606] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2782858] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0
+[2783113] Message received: TOPIC = "rls/n1/req/light", MESSAGE = ""
+Time taken for light capture: 1
+Time taken for light protobuf encoding: 0

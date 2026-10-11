@@ -1,0 +1,10 @@
+#ifndef NETWORK_CONFIG_H
+#define NETWORK_CONFIG_H
+
+/* Copy to network_config.h and configure your local network. Do not commit it. */
+#define WIFI_SSID "YOUR_WIFI_SSID"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+/* Numeric IPv4 address of the MQTT broker reachable from the board. */
+#define MQTT_BROKER_NAME "192.0.2.1"
+
+#endif

@@ -1,0 +1,308 @@
+MQTT client connected to broker < 10.72.0.205 > at PORT 1883
+[13295] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature initialization: 142
+Time taken for temperature recording: 5388
+Time taken for temperature protobuf encoding: 0
+[19970] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[27038] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[34048] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[41015] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[48028] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[54992] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[62005] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[69044] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[75981] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[83019] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[90062] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[96999] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[104039] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[110976] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[118016] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[125056] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[131994] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[139036] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[145972] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[153013] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[160055] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[166990] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[174031] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[180934] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[188007] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[195048] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[201986] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[209019] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[215964] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[223005] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[230046] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[237088] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[244024] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[251064] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[257999] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[264934] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[271977] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[279018] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[286058] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[292995] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[300036] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[306973] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[314043] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[321054] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[328020] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[335031] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[341964] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[349008] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[356079] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[362986] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[370056] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[376945] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[384035] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[391046] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[398012] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[405024] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[411992] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[419109] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[426044] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[432980] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[440022] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[447063] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[454000] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[461041] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[467978] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[475019] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[482059] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[488998] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[496037] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[502974] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[510014] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[517055] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[523994] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[531033] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[537971] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[545002] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[551934] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[558990] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[566029] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[572967] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[580006] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[587048] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[593985] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[601026] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[607961] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[615003] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[622045] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[628930] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[636014] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[643065] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[650003] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[657042] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[663982] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[671056] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[678063] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[685030] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[692042] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5243
+Time taken for temperature protobuf encoding: 0
+[699005] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[706019] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[713079] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0
+[719996] Message received: TOPIC = "rls/n1/req/temperature", MESSAGE = ""
+Time taken for temperature recording: 5242
+Time taken for temperature protobuf encoding: 0

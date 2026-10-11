@@ -1,0 +1,14 @@
+fastapi==0.135.2
+uvicorn[standard]==0.42.0
+httpx==0.28.1
+pydantic-settings==2.13.1
+langchain==1.2.15
+langchain-core==1.2.29
+langchain-openai==1.1.13
+langgraph==1.1.6
+langfuse==4.5.1
+protobuf==6.31.1
+paho-mqtt>=2.0.0
+pytest==9.0.2
+pillow>=11.0
+numpy>=2.0

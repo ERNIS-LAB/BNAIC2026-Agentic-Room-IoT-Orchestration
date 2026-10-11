@@ -1,0 +1,612 @@
+[2535421] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20907
+Time taken for image capturing + processing: 152
+Taken picture succesfully with size 20908!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2536297] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20932
+Time taken for image capturing + processing: 145
+Taken picture succesfully with size 20933!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2537308] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20476
+Time taken for image capturing + processing: 110
+Taken picture succesfully with size 20477!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2538340] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20836
+Time taken for image capturing + processing: 144
+Taken picture succesfully with size 20837!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2539334] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20488
+Time taken for image capturing + processing: 126
+Taken picture succesfully with size 20489!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2540362] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20914
+Time taken for image capturing + processing: 164
+Taken picture succesfully with size 20915!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2541354] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20559
+Time taken for image capturing + processing: 147
+Taken picture succesfully with size 20560!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2542371] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20531
+Time taken for image capturing + processing: 196
+Taken picture succesfully with size 20532!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2543384] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20470
+Time taken for image capturing + processing: 160
+Taken picture succesfully with size 20471!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2544396] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20408
+Time taken for image capturing + processing: 125
+Taken picture succesfully with size 20409!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2545408] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20404
+Time taken for image capturing + processing: 178
+Taken picture succesfully with size 20405!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2546417] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20242
+Time taken for image capturing + processing: 145
+Taken picture succesfully with size 20243!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2547463] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20428
+Time taken for image capturing + processing: 165
+Taken picture succesfully with size 20429!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2548442] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19126
+Time taken for image capturing + processing: 162
+Taken picture succesfully with size 19127!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2549458] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19497
+Time taken for image capturing + processing: 121
+Taken picture succesfully with size 19498!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2550484] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19178
+Time taken for image capturing + processing: 160
+Taken picture succesfully with size 19179!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2551483] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 18919
+Time taken for image capturing + processing: 139
+Taken picture succesfully with size 18920!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2552511] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19086
+Time taken for image capturing + processing: 176
+Taken picture succesfully with size 19087!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2553508] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19220
+Time taken for image capturing + processing: 155
+Taken picture succesfully with size 19221!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2554526] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 18939
+Time taken for image capturing + processing: 114
+Taken picture succesfully with size 18940!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2555533] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19421
+Time taken for image capturing + processing: 171
+Taken picture succesfully with size 19422!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2556562] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20324
+Time taken for image capturing + processing: 119
+Taken picture succesfully with size 20325!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2557558] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19498
+Time taken for image capturing + processing: 189
+Taken picture succesfully with size 19499!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2558586] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19967
+Time taken for image capturing + processing: 137
+Taken picture succesfully with size 19968!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2559583] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19469
+Time taken for image capturing + processing: 117
+Taken picture succesfully with size 19470!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2560611] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19993
+Time taken for image capturing + processing: 153
+Taken picture succesfully with size 19994!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2561608] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 19606
+Time taken for image capturing + processing: 134
+Taken picture succesfully with size 19607!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2562637] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21275
+Time taken for image capturing + processing: 170
+Taken picture succesfully with size 21276!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2563633] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20086
+Time taken for image capturing + processing: 151
+Taken picture succesfully with size 20087!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2564661] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20965
+Time taken for image capturing + processing: 187
+Taken picture succesfully with size 20966!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2565658] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21453
+Time taken for image capturing + processing: 167
+Taken picture succesfully with size 21454!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2566686] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21527
+Time taken for image capturing + processing: 117
+Taken picture succesfully with size 21528!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2567685] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21545
+Time taken for image capturing + processing: 183
+Taken picture succesfully with size 21546!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2568712] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21084
+Time taken for image capturing + processing: 132
+Taken picture succesfully with size 21085!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2569710] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21674
+Time taken for image capturing + processing: 110
+Taken picture succesfully with size 21675!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2570721] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 22327
+Time taken for image capturing + processing: 166
+Taken picture succesfully with size 22328!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2571733] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21877
+Time taken for image capturing + processing: 130
+Taken picture succesfully with size 21878!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2572756] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 22418
+Time taken for image capturing + processing: 171
+Taken picture succesfully with size 22419!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2573758] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21560
+Time taken for image capturing + processing: 146
+Taken picture succesfully with size 21561!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2574787] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21957
+Time taken for image capturing + processing: 183
+Taken picture succesfully with size 21958!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2575814] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20894
+Time taken for image capturing + processing: 132
+Taken picture succesfully with size 20895!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2576806] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21224
+Time taken for image capturing + processing: 117
+Taken picture succesfully with size 21225!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2577810] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21603
+Time taken for image capturing + processing: 178
+Taken picture succesfully with size 21604!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2578838] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21311
+Time taken for image capturing + processing: 126
+Taken picture succesfully with size 21312!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2579835] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21289
+Time taken for image capturing + processing: 194
+Taken picture succesfully with size 21290!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2580864] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21425
+Time taken for image capturing + processing: 143
+Taken picture succesfully with size 21426!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2581870] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21519
+Time taken for image capturing + processing: 113
+Taken picture succesfully with size 21520!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2582889] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21780
+Time taken for image capturing + processing: 159
+Taken picture succesfully with size 21781!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2583887] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21224
+Time taken for image capturing + processing: 138
+Taken picture succesfully with size 21225!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2584914] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21169
+Time taken for image capturing + processing: 176
+Taken picture succesfully with size 21170!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2585923] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21500
+Time taken for image capturing + processing: 144
+Taken picture succesfully with size 21501!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2586942] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21995
+Time taken for image capturing + processing: 190
+Taken picture succesfully with size 21996!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2587933] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21165
+Time taken for image capturing + processing: 176
+Taken picture succesfully with size 21166!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2588964] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21185
+Time taken for image capturing + processing: 122
+Taken picture succesfully with size 21186!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2590007] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21044
+Time taken for image capturing + processing: 144
+Taken picture succesfully with size 21045!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2590990] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20991
+Time taken for image capturing + processing: 138
+Taken picture succesfully with size 20992!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2592001] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21247
+Time taken for image capturing + processing: 191
+Taken picture succesfully with size 21248!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2593014] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21078
+Time taken for image capturing + processing: 155
+Taken picture succesfully with size 21079!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2594027] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21165
+Time taken for image capturing + processing: 118
+Taken picture succesfully with size 21166!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2595035] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21448
+Time taken for image capturing + processing: 177
+Taken picture succesfully with size 21449!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2596053] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21464
+Time taken for image capturing + processing: 134
+Taken picture succesfully with size 21465!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2597065] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20575
+Time taken for image capturing + processing: 187
+Taken picture succesfully with size 20576!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2598078] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20584
+Time taken for image capturing + processing: 151
+Taken picture succesfully with size 20585!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2599090] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20693
+Time taken for image capturing + processing: 115
+Taken picture succesfully with size 20694!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2600102] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21266
+Time taken for image capturing + processing: 169
+Taken picture succesfully with size 21267!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2601116] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20828
+Time taken for image capturing + processing: 132
+Taken picture succesfully with size 20829!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2602127] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21220
+Time taken for image capturing + processing: 186
+Taken picture succesfully with size 21221!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2603125] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21067
+Time taken for image capturing + processing: 165
+Taken picture succesfully with size 21068!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2604174] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21707
+Time taken for image capturing + processing: 181
+Taken picture succesfully with size 21708!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2605145] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21042
+Time taken for image capturing + processing: 186
+Taken picture succesfully with size 21043!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2606176] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21203
+Time taken for image capturing + processing: 132
+Taken picture succesfully with size 21204!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2607188] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20805
+Time taken for image capturing + processing: 185
+Taken picture succesfully with size 20806!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2608184] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21093
+Time taken for image capturing + processing: 165
+Taken picture succesfully with size 21094!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2609212] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20885
+Time taken for image capturing + processing: 113
+Taken picture succesfully with size 20886!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2610226] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20803
+Time taken for image capturing + processing: 166
+Taken picture succesfully with size 20804!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2611240] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20525
+Time taken for image capturing + processing: 128
+Taken picture succesfully with size 20526!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2612250] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21034
+Time taken for image capturing + processing: 183
+Taken picture succesfully with size 21035!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2613258] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21259
+Time taken for image capturing + processing: 152
+Taken picture succesfully with size 21260!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2614274] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20622
+Time taken for image capturing + processing: 111
+Taken picture succesfully with size 20623!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2615272] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21121
+Time taken for image capturing + processing: 180
+Taken picture succesfully with size 21122!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2616300] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20665
+Time taken for image capturing + processing: 128
+Taken picture succesfully with size 20666!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2617311] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20864
+Time taken for image capturing + processing: 183
+Taken picture succesfully with size 20865!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2618358] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21165
+Time taken for image capturing + processing: 113
+Taken picture succesfully with size 21166!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2619337] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21800
+Time taken for image capturing + processing: 109
+Taken picture succesfully with size 21801!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2620350] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21564
+Time taken for image capturing + processing: 163
+Taken picture succesfully with size 21565!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2621362] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21631
+Time taken for image capturing + processing: 126
+Taken picture succesfully with size 21632!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2622373] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21838
+Time taken for image capturing + processing: 181
+Taken picture succesfully with size 21839!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2623386] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21353
+Time taken for image capturing + processing: 145
+Taken picture succesfully with size 21354!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2624399] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21027
+Time taken for image capturing + processing: 109
+Taken picture succesfully with size 21028!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2625411] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21408
+Time taken for image capturing + processing: 161
+Taken picture succesfully with size 21409!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2626420] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 20736
+Time taken for image capturing + processing: 130
+Taken picture succesfully with size 20737!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2627435] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21007
+Time taken for image capturing + processing: 179
+Taken picture succesfully with size 21008!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2628448] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21363
+Time taken for image capturing + processing: 144
+Taken picture succesfully with size 21364!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2629460] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21621
+Time taken for image capturing + processing: 197
+Taken picture succesfully with size 21622!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2630473] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21559
+Time taken for image capturing + processing: 160
+Taken picture succesfully with size 21560!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2631482] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 22414
+Time taken for image capturing + processing: 128
+Taken picture succesfully with size 22415!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2632497] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21777
+Time taken for image capturing + processing: 178
+Taken picture succesfully with size 21778!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2633537] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 22243
+Time taken for image capturing + processing: 114
+Taken picture succesfully with size 22244!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2634522] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 22198
+Time taken for image capturing + processing: 195
+Taken picture succesfully with size 22199!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2635529] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 22084
+Time taken for image capturing + processing: 165
+Taken picture succesfully with size 22085!
+Time taken for camera protobuf encoding: 0
+Publishing now!
+[2636550] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21032
+Time taken for image capturing + processing: 120
+Taken picture succesfully with size 21033!
+Time taken for camera protobuf encoding: 1
+Publishing now!
+[2637559] Message received: TOPIC = "rls/n1/req/camera", MESSAGE = ""
+Full size 21473
+Time taken for image capturing + processing: 177
+Taken picture succesfully with size 21474!
+Time taken for camera protobuf encoding: 1
+Publishing now!

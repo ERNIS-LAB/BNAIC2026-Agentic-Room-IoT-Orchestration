@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent"
+version = "0.1.0"
+description = "FastAPI gateway plus LangGraph agent runtime for local LLM orchestration."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "fastapi>=0.115.12",
+  "httpx>=0.28.1",
+  "langchain>=1.2.15,<2.0",
+  "langchain-core>=1.2.29,<2.0",
+  "langchain-openai>=1.1.13,<2.0",
+  "langgraph>=1.1.6,<2.0",
+  "langfuse>=4.0.0,<5.0.0",
+  "pydantic-settings>=2.7.1",
+  "uvicorn[standard]>=0.34.0",
+  "protobuf==6.31.1",
+  "paho-mqtt>=2.0.0",
+  "pillow>=11.0",
+  "numpy>=2.0",
+]
+
+[project.optional-dependencies]
+research = [
+  "matplotlib>=3.9", "pandas>=2.2", "seaborn>=0.13",
+  "scipy>=1.14", "scienceplots>=2.1", "jupyterlab>=4.3",
+]
+dev = [
+  "pytest>=8.3.4",
+  "ruff>=0.14",
+]
+
+[tool.setuptools]
+py-modules = ["benchmark", "benchmark_cases"]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+extend-exclude = ["*_pb2.py"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+# Generated protobuf files — do not modify
+exclude = ["src/agent/iot/iot_pb2.py", "src/agent/iot/nanopb_pb2.py"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

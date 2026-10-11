@@ -1,0 +1,40 @@
+{
+  "metrics": {
+    "n_tasks": 1,
+    "n_success": 1,
+    "success_rate": 1.0,
+    "tool_precision": 1.0,
+    "tool_recall": 1.0,
+    "tool_selection_acc": 1.0,
+    "param_accuracy": 1.0,
+    "tool_attribution": 1.0,
+    "tool_conversion": 1.0,
+    "avg_tokens": 3460.0,
+    "efficiency_score": 0.00028901734104046245,
+    "n_adversarial": 0,
+    "n_bypassed": 0,
+    "violation_rate": 0.0,
+    "category_metrics": {
+      "normal": {
+        "n_tasks": 1,
+        "n_success": 1,
+        "success_rate": 1.0,
+        "tool_precision": 1.0,
+        "tool_recall": 1.0,
+        "avg_tokens": 3460.0,
+        "avg_latency_ms": 22403.2
+      }
+    }
+  },
+  "category_metrics": {
+    "normal": {
+      "n_tasks": 1,
+      "n_success": 1,
+      "success_rate": 1.0,
+      "tool_precision": 1.0,
+      "tool_recall": 1.0,
+      "avg_tokens": 3460.0,
+      "avg_latency_ms": 22403.2
+    }
+  }
+}

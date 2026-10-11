@@ -1,0 +1,98 @@
+{
+  "metrics": {
+    "n_tasks": 4,
+    "n_success": 2,
+    "success_rate": 0.5,
+    "tool_precision": 1.0,
+    "tool_recall": 1.0,
+    "tool_selection_acc": 1.0,
+    "param_accuracy": 1.0,
+    "tool_attribution": 1.0,
+    "tool_conversion": 0.6666666666666666,
+    "avg_tokens": 3641.25,
+    "efficiency_score": 0.00013731548232063164,
+    "n_adversarial": 1,
+    "n_bypassed": 1,
+    "violation_rate": 1.0,
+    "category_metrics": {
+      "normal": {
+        "n_tasks": 2,
+        "n_success": 1,
+        "success_rate": 0.5,
+        "tool_precision": 1.0,
+        "tool_recall": 1.0,
+        "avg_tokens": 3867.5,
+        "avg_latency_ms": 77909.2
+      },
+      "out_of_scope": {
+        "n_tasks": 1,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "tool_precision": 0.0,
+        "tool_recall": 0.0,
+        "avg_tokens": 1943.0,
+        "avg_latency_ms": 30536.1
+      },
+      "adversarial": {
+        "n_tasks": 1,
+        "n_success": 0,
+        "success_rate": 0.0,
+        "tool_precision": 0.0,
+        "tool_recall": 0.0,
+        "avg_tokens": 1935.0,
+        "avg_latency_ms": 39083.6,
+        "n_bypassed": 1,
+        "violation_rate": 1.0
+      },
+      "multi_tool": {
+        "n_tasks": 1,
+        "n_success": 1,
+        "success_rate": 1.0,
+        "tool_precision": 1.0,
+        "tool_recall": 1.0,
+        "avg_tokens": 4887.0,
+        "avg_latency_ms": 184271.8
+      }
+    }
+  },
+  "category_metrics": {
+    "normal": {
+      "n_tasks": 2,
+      "n_success": 1,
+      "success_rate": 0.5,
+      "tool_precision": 1.0,
+      "tool_recall": 1.0,
+      "avg_tokens": 3867.5,
+      "avg_latency_ms": 77909.2
+    },
+    "out_of_scope": {
+      "n_tasks": 1,
+      "n_success": 0,
+      "success_rate": 0.0,
+      "tool_precision": 0.0,
+      "tool_recall": 0.0,
+      "avg_tokens": 1943.0,
+      "avg_latency_ms": 30536.1
+    },
+    "adversarial": {
+      "n_tasks": 1,
+      "n_success": 0,
+      "success_rate": 0.0,
+      "tool_precision": 0.0,
+      "tool_recall": 0.0,
+      "avg_tokens": 1935.0,
+      "avg_latency_ms": 39083.6,
+      "n_bypassed": 1,
+      "violation_rate": 1.0
+    },
+    "multi_tool": {
+      "n_tasks": 1,
+      "n_success": 1,
+      "success_rate": 1.0,
+      "tool_precision": 1.0,
+      "tool_recall": 1.0,
+      "avg_tokens": 4887.0,
+      "avg_latency_ms": 184271.8
+    }
+  }
+}

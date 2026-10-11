@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "MRP-2: Local Multimodal IoT Orchestration"
+type: software
+license: MIT
+repository-code: "https://github.com/ERNIS-LAB/BNAIC2026-Agentic-Room-IoT-Orchestration"
+authors:
+  - family-names: Schmeitz
+    given-names: Camiel
+  - family-names: Ng
+    given-names: Che Hang
+  - family-names: Delicado González
+    given-names: Francisco José
+  - family-names: Pachis
+    given-names: Grigorios
+  - family-names: Bruninx
+    given-names: Noa
+  - family-names: Kouzinopoulos
+    given-names: Charalampos S.
+  - family-names: Tang
+    given-names: Guangzhi
+preferred-citation:
+  type: article
+  title: "Privacy-Preserving IoT Orchestration with a Local Multimodal Agent for Smart Space Management"
+  authors:
+    - family-names: Schmeitz
+      given-names: Camiel
+    - family-names: Ng
+      given-names: Che Hang
+    - family-names: Delicado González
+      given-names: Francisco José
+    - family-names: Pachis
+      given-names: Grigorios
+    - family-names: Bruninx
+      given-names: Noa
+    - family-names: Kouzinopoulos
+      given-names: Charalampos S.
+    - family-names: Tang
+      given-names: Guangzhi

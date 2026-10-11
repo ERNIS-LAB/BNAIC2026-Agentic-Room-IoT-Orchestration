@@ -1,0 +1,34 @@
+syntax = "proto3";
+package iot;
+import "nanopb.proto";
+
+// Per-sensor message definitions matching the nanopb firmware schema.
+// Each sensor sends its own standalone message type (no nested SensorPacket wrapper).
+
+message Node {
+    string id = 1;
+}
+
+message Humidity {
+    float humidity = 1;
+}
+
+message Temperature {
+    float temperature = 1;  // Measured in Celsius
+}
+
+message Pressure {
+    float pressure = 1;
+}
+
+message Light {
+    uint32 light = 1;
+}
+
+message Camera {
+    bytes camera = 1 [(nanopb).type = FT_CALLBACK];  // Prevent C assigning memory for image buffer, protocol buffer, and message...
+}
+
+message Sound {
+    int32 sound = 1;
+}

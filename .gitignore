@@ -1,0 +1,88 @@
+# --- Local tooling / OS ---
+.agent/
+.cursor/
+.vscode/
+.idea/
+*.code-workspace
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Logs ---
+*.log
+logs/
+
+# --- Secrets / local config ---
+.env
+.env.*
+!.env.example
+*.local
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage/
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Node / frontend ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Misc caches ---
+.cache/
+*.tmp
+*.swp
+
+# --- Model artifacts ---
+models/**
+!models/.gitkeep
+!models/*.example
+
+# --- STM32 Non-Src/Config ---
+MRP-IOT/.settings/**
+MRP-IOT/Debug/**
+build_custom_r1001/
+build_custom_r2001/
+build_r2001/
+build_r1001/
+
+.agents/
+# Local firmware configuration and generated artifacts
+MRP-IOT/Core/Inc/network_config.h
+*.bin
+*.elf
+*.hex
+*.map
+*.pcap.old
+*.json.old
+.uv-cache/
+# Runtime captures and new evaluation runs (published results remain tracked)
+data/**
+!data/.gitkeep
+eval_results/20*/
+frontend/*.tsbuildinfo
+output/

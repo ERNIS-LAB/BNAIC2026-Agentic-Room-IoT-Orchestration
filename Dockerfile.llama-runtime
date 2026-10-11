@@ -1,0 +1,24 @@
+FROM ubuntu:24.04
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Ubuntu is used because the mounted ROCm llama.cpp binary needs glibc-based
+# runtime libraries from a host-compatible userspace.
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+        ca-certificates \
+        libatomic1 \
+        libgomp1 \
+        libstdc++6 \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN getent group render >/dev/null || groupadd --system render \
+    && getent group video >/dev/null || groupadd --system video
+
+RUN useradd --create-home --uid 10001 appuser \
+    && mkdir -p /models/cache /opt/llama \
+    && chown -R appuser:appuser /models /opt/llama
+
+USER appuser
+
+EXPOSE 8080

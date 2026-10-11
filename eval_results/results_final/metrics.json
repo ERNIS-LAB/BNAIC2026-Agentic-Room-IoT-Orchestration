@@ -1,0 +1,140 @@
+{
+  "metrics": {
+    "n_tasks": 299,
+    "n_success": 276,
+    "success_rate": 0.9254901960784314,
+    "tool_precision": 0.9722222222222222,
+    "tool_recall": 1.0,
+    "tool_selection_acc": 0.9722222222222222,
+    "param_accuracy": 1.0,
+    "tool_attribution": 0.8347457627118644,
+    "tool_conversion": 0.9380952380952381,
+    "avg_tokens": 4152.650980392157,
+    "efficiency_score": 0.00022286732028489243,
+    "n_adversarial": 44,
+    "n_bypassed": 4,
+    "violation_rate": 0.09090909090909091,
+    "category_metrics": {
+      "normal": {
+        "n_tasks": 130,
+        "n_success": 125,
+        "success_rate": 0.9615,
+        "tool_precision": 1.0,
+        "tool_recall": 1.0,
+        "avg_tokens": 3796.0,
+        "avg_latency_ms": 141986.5
+      },
+      "out_of_scope": {
+        "n_tasks": 45,
+        "n_success": 39,
+        "success_rate": 0.8667,
+        "tool_precision": 0.0,
+        "tool_recall": 0.0,
+        "avg_tokens": 2264.2,
+        "avg_latency_ms": 92541.9
+      },
+      "adversarial": {
+        "n_tasks": 44,
+        "n_success": 40,
+        "success_rate": 0.9091,
+        "tool_precision": 0.0,
+        "tool_recall": 0.0,
+        "avg_tokens": 1991.2,
+        "avg_latency_ms": 98737.4,
+        "n_bypassed": 4,
+        "violation_rate": 0.0909
+      },
+      "multi_tool": {
+        "n_tasks": 80,
+        "n_success": 72,
+        "success_rate": 0.9,
+        "tool_precision": 1.0,
+        "tool_recall": 1.0,
+        "avg_tokens": 5794.5,
+        "avg_latency_ms": 181808.3
+      }
+    },
+    "judge": {
+      "n_evaluated": 249,
+      "avg_overall": 0.98,
+      "avg_factual_correctness": 0.9639,
+      "avg_tool_appropriateness": 0.992,
+      "avg_answer_completeness": 0.9859,
+      "avg_conciseness": 0.9972,
+      "by_category": {
+        "normal": {
+          "avg_factual_correctness": 0.9672,
+          "avg_tool_appropriateness": 1.0,
+          "avg_answer_completeness": 0.9959,
+          "avg_conciseness": 1.0,
+          "avg_overall": 0.9861,
+          "n": 122
+        },
+        "out_of_scope": {
+          "avg_factual_correctness": 0.9744,
+          "avg_tool_appropriateness": 0.9744,
+          "avg_answer_completeness": 0.9744,
+          "avg_conciseness": 1.0,
+          "avg_overall": 0.9769,
+          "n": 39
+        },
+        "adversarial": {
+          "avg_factual_correctness": 0.9394,
+          "avg_tool_appropriateness": 0.9697,
+          "avg_answer_completeness": 0.9394,
+          "avg_conciseness": 0.9818,
+          "avg_overall": 0.9527,
+          "n": 33
+        },
+        "multi_tool": {
+          "avg_factual_correctness": 0.9636,
+          "avg_tool_appropriateness": 1.0,
+          "avg_answer_completeness": 1.0,
+          "avg_conciseness": 0.9982,
+          "avg_overall": 0.9853,
+          "n": 55
+        }
+      }
+    }
+  },
+  "category_metrics": {
+    "normal": {
+      "n_tasks": 130,
+      "n_success": 125,
+      "success_rate": 0.9615,
+      "tool_precision": 1.0,
+      "tool_recall": 1.0,
+      "avg_tokens": 3796.0,
+      "avg_latency_ms": 141986.5
+    },
+    "out_of_scope": {
+      "n_tasks": 45,
+      "n_success": 39,
+      "success_rate": 0.8667,
+      "tool_precision": 0.0,
+      "tool_recall": 0.0,
+      "avg_tokens": 2264.2,
+      "avg_latency_ms": 92541.9
+    },
+    "adversarial": {
+      "n_tasks": 44,
+      "n_success": 40,
+      "success_rate": 0.9091,
+      "tool_precision": 0.0,
+      "tool_recall": 0.0,
+      "avg_tokens": 1991.2,
+      "avg_latency_ms": 98737.4,
+      "n_bypassed": 4,
+      "violation_rate": 0.0909
+    },
+    "multi_tool": {
+      "n_tasks": 80,
+      "n_success": 72,
+      "success_rate": 0.9,
+      "tool_precision": 1.0,
+      "tool_recall": 1.0,
+      "avg_tokens": 5794.5,
+      "avg_latency_ms": 181808.3
+    }
+  }
+}
